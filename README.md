@@ -1,110 +1,169 @@
-# Pedro Lucas Rezende ⌨
+<div align="center">
 
-Sou desenvolvedor de software com experiência na criação de soluções web escaláveis e de alto desempenho. Desde 2024, atuo no desenvolvimento de aplicações utilizando React.js e Tailwind CSS no front-end e Node.js, Python e Golang no back-end, trabalhando com bancos de dados SQL e NoSQL, além de Docker e AWS para ambientes em nuvem.
+# Pedro Lucas Rezende
 
-Tenho vivência no desenvolvimento de APIs, microsserviços e na organização de arquiteturas modernas, sempre buscando código limpo, desempenho e segurança. Também possuo experiência com automação de processos e integrações utilizando n8n, além da criação e manutenção de pipelines de CI/CD com Jenkins e Kubernetes, apoiando o deploy e a escalabilidade das aplicações.
+### `Software Developer`
 
-Além da atuação técnica, sou responsável pelo aplicativo educacional sobre a Resolução RDC 216/2004 da ANVISA, desenvolvido pelo Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro (IFTM). Nesse projeto, contribuo diretamente para a melhoria da usabilidade, do design e da experiência do usuário, facilitando o acesso a informações regulatórias.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=C%23+%2F+.NET+%7C+Golang+%7C+Node.js;Microservices+%7C+Distributed+Systems;AWS+%7C+Kubernetes+%7C+Docker;APIs+%7C+Event-Driven+%7C+CI%2FCD" alt="Typing SVG" />
 
-Atualmente, curso Gestão da Informação na Universidade Federal de Uberlândia (UFU), com foco em programação e tecnologia aplicada, ampliando minha capacidade de estruturar sistemas, automatizar processos e desenvolver soluções eficientes.
+<br>
 
-Sou uma pessoa curiosa, comprometida com aprendizado contínuo e motivada por desafios, sempre buscando oportunidades para criar soluções tecnológicas práticas, inovadoras e com impacto real.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/pedrorez)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:plrezende02@gmail.com)
 
-### Linguagens e Stacks
+</div>
 
-<img 
-align="left"
-alt="React"
-title="React"
-width="30px"
-style="padding-right: 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+---
 
+## `> Sobre Mim`
 
-<img
-align="left"
-alt="Node"
-title="Node"
-width="30px"
-style="padding-right: 10px" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
+Sou Desenvolvedor de Software com experiência na construção e evolução de **APIs, microsserviços e sistemas distribuídos**, atuando principalmente no backend.
 
-<img align="left"
-alt="JS"
-title="JS"
-width="30px"
-style="padding-right: 10px" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+Tenho experiência prática com sistemas de produção em escala, processamento assíncrono, mensageria, bancos relacionais e NoSQL, containers e infraestrutura em cloud.
 
+Gosto de entender o problema antes de escolher a tecnologia — e de construir soluções que sejam **simples de manter, fáceis de evoluir e capazes de escalar**.
 
-<img align="left"
-alt="TS"
-title="TS"
-width="30px"
-style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+---
 
-<img align="left"
-alt="TailwindCSS"
-title="TailwindCSS"
-width="30px"
-style="padding-right: 10px" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+## `> Experiência`
 
+Atualmente atuo como **Desenvolvedor de Software** trabalhando principalmente com **C#/.NET e Golang**.
 
-<img align="left"
-alt="Python"
-title="Python"
-width="30px"
-style="padding-right: 10px" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+Entre os problemas que já trabalhei estão:
 
+* APIs REST de alta performance
+* Arquiteturas baseadas em microsserviços
+* Processamento assíncrono com RabbitMQ
+* Sistemas orientados a eventos
+* Persistência em SQL e NoSQL
+* Cache com Redis
+* Integração entre diferentes APIs e serviços
+* Modernização de sistemas legados
+* Containers e orquestração com Kubernetes
+* Infraestrutura AWS
+* Pipelines de CI/CD
+* Testes automatizados e TDD
 
-<img align="left"
-alt="Golang"
-title="Golang"
-width="30px"
-style="padding-right: 10px" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
+---
 
+## `> Stacks`
 
-<img 
-align="left"
-alt="PostgreeSQL"
-title="PostgreeSQL"
-width="30px"
-style="padding-right: 10px" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+### Backend
 
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="42" title="C#" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="42" title=".NET" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="42" title="Golang" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="42" title="Node.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="42" title="TypeScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="42" title="Java" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="42" title="Spring Boot" />
+</p>
 
-<img align="left"
-alt="MySQL"
-title="MySQL"
-width="30px"
-style="padding-right: 10px" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+### Databases & Messaging
 
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="42" title="PostgreSQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="42" title="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="42" title="MongoDB" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="42" title="Redis" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="42" title="RabbitMQ" />
+</p>
 
-<img align="left"
-alt="Docker"
-title="Docker"
-width="30px"
-style="padding-right: 10px" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+### Cloud & Infrastructure
 
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aws/aws-original.svg" width="42" title="AWS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42" title="Docker" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="42" title="Kubernetes" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="42" title="Jenkins" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" title="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="42" title="GitHub" />
+</p>
 
-<img align="left"
-alt="Git"
-title="Git"
-width="30px"
-style="padding-right: 10px" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+### Frontend & Mobile
 
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="42" title="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="42" title="Angular" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="42" title="React Native" />
+</p>
 
-<img align="left"
-alt="Github"
-title="Github"
-width="30px"
-style="padding-right: 10px" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-          
-        
+---
+
+## `> Projetos`
+
+### Sabichão
+
+Aplicativo mobile de aprendizado adaptativo desenvolvido ao longo de aproximadamente **9 meses**.
+
+**React Native · Node.js · Google Gemini API**
+
+* Aproximadamente 100 conteúdos/componentes educacionais
+* 4 funcionalidades principais de aprendizado
+* Backend integrado ao aplicativo através de APIs
+* Personalização e geração de conteúdos utilizando IA
+
+---
+
+### BPF Educacional
+
+Aplicativo educacional desenvolvido para consulta e aprendizado sobre a **RDC 216/2004 da ANVISA**.
+
+**React Native · Expo · Node.js**
+
+* Conteúdo regulatório centralizado
+* Quiz com questões aleatórias
+* Interface voltada para estudantes
+* Backend desenvolvido em Node.js
+
+---
+
+## `> currently learning`
+
+```text
+Backend
+████████████████████████████████████████  C# / .NET
+██████████████████████████████████████░░  Golang
+████████████████████████████████████░░░░  Distributed Systems
+
+Infrastructure
+██████████████████████████████████████░░  Kubernetes
+████████████████████████████████████░░░░  AWS
+██████████████████████████████████░░░░░░  CI/CD
+```
+
+Atualmente continuo aprofundando meus conhecimentos em **backend, sistemas distribuídos, cloud e arquitetura de software**.
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrorez&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## `> Formação`
+
+**Bacharelado em Sistemas de Informação**
+Universidade de Uberaba — UNIUBE
+`2025 → 2029`
+
+**Técnico em IoT Integrado ao Ensino Médio**
+Instituto Federal do Triângulo Mineiro — IFTM
+
+---
+
+## `> Contato`
+
+Se quiser trocar uma ideia sobre **backend, arquitetura, sistemas distribuídos ou tecnologia**, fique à vontade para entrar em contato.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pedrorez-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/pedrorez)
+
+[![Email](https://img.shields.io/badge/Email-plrezende%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:plrezende02@gmail.com)
+
+</div>
