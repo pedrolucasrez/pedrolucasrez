@@ -1,169 +1,189 @@
 <div align="center">
 
-# Pedro Lucas Rezende
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:C1121F&height=220&section=header&text=Pedro%20Lucas%20Rezende&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer&descAlignY=58&descSize=20&descColor=FF3333" width="100%"/>
 
-### `Software Developer`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=C%23+%2F+.NET+%7C+Golang+%7C+Node.js;Microservices+%7C+Distributed+Systems;AWS+%7C+Kubernetes+%7C+Docker;APIs+%7C+Event-Driven+%7C+CI%2FCD" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=FF3333&background=0D0D0DAA&center=true&vCenter=true&width=750&height=50&lines=compilando+solu%C3%A7%C3%B5es+desde+cedo...;C%23+%2F+.NET+%7C+Golang+%7C+Node.js;microsservi%C3%A7os+que+aguentam+carga;AWS+%7C+Kubernetes+%7C+Docker;deploy+sem+medo+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/pedrorez)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:plrezende02@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pedrorez-C1121F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D0D)](https://linkedin.com/in/pedrorez)
+[![Email](https://img.shields.io/badge/Email-plrezende02%40gmail.com-C1121F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D0D)](mailto:plrezende02@gmail.com)
+![Visitors](https://komarev.com/ghpvc/?username=pedrorez&style=for-the-badge&color=C1121F&labelColor=0D0D0D&label=VISITORS)
 
 </div>
 
----
+<br>
 
-## `> Sobre Mim`
+<div align="center">
 
-Sou Desenvolvedor de Software com experiência na construção e evolução de **APIs, microsserviços e sistemas distribuídos**, atuando principalmente no backend.
+![](https://img.shields.io/badge/SOBRE_MIM-C1121F?style=for-the-badge)
 
-Tenho experiência prática com sistemas de produção em escala, processamento assíncrono, mensageria, bancos relacionais e NoSQL, containers e infraestrutura em cloud.
+</div>
 
-Gosto de entender o problema antes de escolher a tecnologia — e de construir soluções que sejam **simples de manter, fáceis de evoluir e capazes de escalar**.
+Sou desenvolvedor de software e curto resolver problema **de verdade**, não só empilhar tecnologia bonita no currículo. Meu foco é backend: **APIs, microsserviços e sistemas distribuídos** que precisam aguentar tráfego real sem cair.
 
----
+No dia a dia, transito entre processamento assíncrono, mensageria, bancos relacionais e NoSQL, containers e infraestrutura em cloud — geralmente apagando incêndio ou evitando que ele comece.
 
-## `> Experiência`
+Minha régua é simples: antes de escolher a stack, entendo o problema. Gosto de construir coisa que o time daqui a um ano ainda consiga mexer sem xingar quem escreveu — no caso, eu mesmo.
 
-Atualmente atuo como **Desenvolvedor de Software** trabalhando principalmente com **C#/.NET e Golang**.
+<br>
 
-Entre os problemas que já trabalhei estão:
+<div align="center">
 
-* APIs REST de alta performance
-* Arquiteturas baseadas em microsserviços
-* Processamento assíncrono com RabbitMQ
-* Sistemas orientados a eventos
-* Persistência em SQL e NoSQL
-* Cache com Redis
-* Integração entre diferentes APIs e serviços
-* Modernização de sistemas legados
-* Containers e orquestração com Kubernetes
-* Infraestrutura AWS
-* Pipelines de CI/CD
-* Testes automatizados e TDD
+![](https://img.shields.io/badge/EXPERIENCIA-C1121F?style=for-the-badge)
 
----
+</div>
 
-## `> Stacks`
+Hoje atuo como **Desenvolvedor de Software**, com o dia a dia dividido principalmente entre **C#/.NET e Golang**.
 
-### Backend
+Alguns dos combates recentes:
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="42" title="C#" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="42" title=".NET" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="42" title="Golang" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="42" title="Node.js" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="42" title="TypeScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="42" title="Java" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="42" title="Spring Boot" />
-</p>
+| | |
+|---|---|
+| 🔧 | APIs REST de alta performance, feitas pra escalar sem drama |
+| 🧩 | Arquiteturas baseadas em microsserviços |
+| ⚡ | Processamento assíncrono com RabbitMQ |
+| 📡 | Sistemas orientados a eventos |
+| 🗄️ | Persistência em SQL e NoSQL |
+| 🚀 | Cache com Redis pra tirar peso do banco |
+| 🔗 | Integração entre APIs e serviços que teimam em não conversar |
+| 🏚️ | Modernização de sistemas legados (sim, incluindo aquele código de 2015) |
+| 📦 | Containers e orquestração com Kubernetes |
+| ☁️ | Infraestrutura na AWS |
+| 🔁 | Pipelines de CI/CD |
+| ✅ | Testes automatizados e TDD |
 
-### Databases & Messaging
+<br>
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="42" title="PostgreSQL" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="42" title="MySQL" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="42" title="MongoDB" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="42" title="Redis" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="42" title="RabbitMQ" />
-</p>
+<div align="center">
 
-### Cloud & Infrastructure
+![](https://img.shields.io/badge/TECNOLOGIAS-C1121F?style=for-the-badge)
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aws/aws-original.svg" width="42" title="AWS" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42" title="Docker" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="42" title="Kubernetes" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="42" title="Jenkins" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" title="Git" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="42" title="GitHub" />
-</p>
+<br><br>
 
-### Frontend & Mobile
+**Backend**
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="42" title="React" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="42" title="Angular" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="42" title="React Native" />
-</p>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,go,nodejs,ts,java,spring&theme=dark" />
 
----
+<br><br>
 
-## `> Projetos`
+**Dados & Mensageria**
 
-### Sabichão
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,rabbitmq&theme=dark" />
 
-Aplicativo mobile de aprendizado adaptativo desenvolvido ao longo de aproximadamente **9 meses**.
+<br><br>
+
+**Cloud & Infra**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,github&theme=dark" />
+
+<br><br>
+
+**Frontend & Mobile**
+
+<img src="https://skillicons.dev/icons?i=react,angular&theme=dark" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+![](https://img.shields.io/badge/PROJETOS-C1121F?style=for-the-badge)
+
+</div>
+
+### 🧠 Sabichão
+
+Meses de trabalho num app mobile de aprendizado adaptativo — a ideia era usar IA pra deixar o conteúdo mais inteligente que um PDF genérico. Levou cerca de **9 meses** do zero até algo redondo.
 
 **React Native · Node.js · Google Gemini API**
 
-* Aproximadamente 100 conteúdos/componentes educacionais
+* ~100 conteúdos/componentes educacionais construídos do zero
 * 4 funcionalidades principais de aprendizado
-* Backend integrado ao aplicativo através de APIs
-* Personalização e geração de conteúdos utilizando IA
+* Backend próprio integrado ao app via APIs
+* Personalização e geração de conteúdo usando IA
 
----
+<br>
 
-### BPF Educacional
+### 📋 BPF Educacional
 
-Aplicativo educacional desenvolvido para consulta e aprendizado sobre a **RDC 216/2004 da ANVISA**.
+Um app pra tirar da cabeça de quem estuda a RDC 216/2004 da ANVISA e colocar no bolso — consulta rápida em vez de decorar norma.
 
 **React Native · Expo · Node.js**
 
-* Conteúdo regulatório centralizado
-* Quiz com questões aleatórias
-* Interface voltada para estudantes
-* Backend desenvolvido em Node.js
-
----
-
-## `> currently learning`
-
-```text
-Backend
-████████████████████████████████████████  C# / .NET
-██████████████████████████████████████░░  Golang
-████████████████████████████████████░░░░  Distributed Systems
-
-Infrastructure
-██████████████████████████████████████░░  Kubernetes
-████████████████████████████████████░░░░  AWS
-██████████████████████████████████░░░░░░  CI/CD
-```
-
-Atualmente continuo aprofundando meus conhecimentos em **backend, sistemas distribuídos, cloud e arquitetura de software**.
-
----
+* Conteúdo regulatório todo centralizado
+* Quiz com questões aleatórias pra fixar de verdade
+* Interface pensada pra estudante, não pra fiscal
+* Backend em Node.js dando suporte a tudo isso
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrorez&theme=tokyonight&hide_border=true" />
+![](https://img.shields.io/badge/ESTATISTICAS-C1121F?style=for-the-badge)
+
+<br><br>
+
+![Seguidores](https://img.shields.io/github/followers/pedrorez?style=for-the-badge&color=C1121F&labelColor=0D0D0D&logo=github&logoColor=white&label=SEGUIDORES)
+![Repositórios](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fpedrorez&label=REPOSITORIOS&query=%24.public_repos&style=for-the-badge&color=C1121F&labelColor=0D0D0D&logo=github&logoColor=white)
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=pedrorez&hide_border=true&background=0D0D0D&ring=C1121F&fire=FF3333&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FF3333&dates=808080" width="70%" />
 
 </div>
 
----
-
-## `> Formação`
-
-**Bacharelado em Sistemas de Informação**
-Universidade de Uberaba — UNIUBE
-`2025 → 2029`
-
-**Técnico em IoT Integrado ao Ensino Médio**
-Instituto Federal do Triângulo Mineiro — IFTM
-
----
-
-## `> Contato`
-
-Se quiser trocar uma ideia sobre **backend, arquitetura, sistemas distribuídos ou tecnologia**, fique à vontade para entrar em contato.
+<br>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pedrorez-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/pedrorez)
+![](https://img.shields.io/badge/ATIVIDADE-C1121F?style=for-the-badge)
 
-[![Email](https://img.shields.io/badge/Email-plrezende%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:plrezende02@gmail.com)
+<br><br>
+
+<!--START_SECTION:snake-->
+<img src="https://raw.githubusercontent.com/pedrorez/pedrorez/output/github-contribution-grid-snake.svg" alt="snake animation" width="90%" />
+<!--END_SECTION:snake-->
 
 </div>
+
+> A cobrinha come os quadradinhos do seu contribution graph — mas ela só aparece depois de ativar a GitHub Action (arquivo `snake.yml`, incluído junto com este README). Instruções no final.
+
+<br>
+
+<div align="center">
+
+![](https://img.shields.io/badge/FORMACAO-C1121F?style=for-the-badge)
+
+</div>
+
+<br>
+
+| Curso | Instituição | Período |
+|---|---|---|
+| Bacharelado em Sistemas de Informação | Universidade de Uberaba — UNIUBE | 2025 → 2029 |
+| Técnico em IoT Integrado ao Ensino Médio | Instituto Federal do Triângulo Mineiro — IFTM | — |
+
+<br>
+
+<div align="center">
+
+![](https://img.shields.io/badge/CONTATO-C1121F?style=for-the-badge)
+
+</div>
+
+<br>
+
+<div align="center">
+
+Bateu vontade de falar sobre **backend, arquitetura, sistemas distribuídos** ou qualquer outra ideia de tecnologia? Manda mensagem, respondo.
+
+<br><br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pedrorez-C1121F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D0D)](https://linkedin.com/in/pedrorez)
+[![Email](https://img.shields.io/badge/Email-plrezende02%40gmail.com-C1121F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D0D)](mailto:plrezende02@gmail.com)
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:C1121F&height=120&section=footer" width="100%"/>
