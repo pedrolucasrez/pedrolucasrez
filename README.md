@@ -146,8 +146,6 @@ Um app pra tirar da cabeça de quem estuda a RDC 216/2004 da ANVISA e colocar no
 
 </div>
 
-> A cobrinha come os quadradinhos do seu contribution graph — mas ela só aparece depois de ativar a GitHub Action (arquivo `snake.yml`, incluído junto com este README). Instruções no final.
-
 <br>
 
 <div align="center">
