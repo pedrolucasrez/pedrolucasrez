@@ -141,7 +141,7 @@ Um app pra tirar da cabeça de quem estuda a RDC 216/2004 da ANVISA e colocar no
 <br><br>
 
 <!--START_SECTION:snake-->
-<img src="https://raw.githubusercontent.com/pedrorez/pedrorez/output/github-contribution-grid-snake.svg" alt="snake animation" width="90%" />
+<img src="https://raw.githubusercontent.com/pedrolucasrez/pedrolucasrez/output/github-contribution-grid-snake.svg" alt="snake animation" width="90%" />
 <!--END_SECTION:snake-->
 
 </div>
